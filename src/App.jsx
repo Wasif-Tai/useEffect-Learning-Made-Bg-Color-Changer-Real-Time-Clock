@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "./App.css";
-import Stopwatch from "./Stopwatch";
+import Stopwatch from "./Realtimeclock";
 
 function generateColor() {
   const colors = [
